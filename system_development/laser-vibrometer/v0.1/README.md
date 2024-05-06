@@ -1,12 +1,8 @@
 # Laser Vibrometer
-
 Sensing system designed with a laser vibrometer
 
-## V0.1
+## Hardware design
 
-
-## V0.2
-
-
-
+ 
+## Software design
 

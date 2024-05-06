@@ -31,15 +31,15 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this data as: 
 
-Mohamed Abdelwahab, Matthew Burnett, Antonio Fonce, Joud Satme Austin R.J. Downey, and Daniel
-Gibson. In-situ-water-quality-sensor, August 2023. URL: https://github.com/ARTSLaboratory/In-Situ-Water-Quality-Sensor
+Samuel Roberts, Matt Whetham, Hoang Thienan, Mumin Adhami,Yanzhou Fu, and Austin R.J. Downey.
+In-situ-monitoring-of-Powder-bed-fusion-additive-manufacturing, May 2024. URL: https://github.com/ARTS-Laboratory/In-situ-monitoring-of-Powder-bed-fusion-additive-manufacturing
 
 #### Bibtex
 
-@Misc{AbdelwahabSituWaterQuality,  
-  author = {Mohamed Abdelwahab and Matthew Burnett and Antonio Fonce and Joud Satme and Austin {R.J.} Downey},  
-  title  = {In-Situ-Water-Quality-Sensor},  
-  groups = {High-Rate-SHM-Working-Group},  
-  url    = {https://github.com/ARTS-Laboratory/In-Situ-Water-Quality-Sensor},  
+@Misc{SamuelSitumonitoring,  
+  author = {Samuel Roberts and Matt Whetham and Hoang Thienan and Mumin Adhami and Yanzhou Fu and Austin {R.J.} Downey},  
+  title  = {In-situ-monitoring-of-Powder-bed-fusion-additive-manufacturing},  
+  groups = {AM-Group},  
+  url    = {https://github.com/ARTS-Laboratory/In-situ-monitoring-of-Powder-bed-fusion-additive-manufacturing},  
 }  
 
